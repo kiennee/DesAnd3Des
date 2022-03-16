@@ -1,0 +1,60 @@
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES\MahoaDES\bin\Debug\MahoaDES.exe.config
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES\MahoaDES\bin\Debug\MahoaDES.exe
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES\MahoaDES\bin\Debug\MahoaDES.pdb
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES\MahoaDES\obj\Debug\MahoaDES.csprojResolveAssemblyReference.cache
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES\MahoaDES\obj\Debug\MahoaDES.Form1.resources
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES\MahoaDES\obj\Debug\MahoaDES.Properties.Resources.resources
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES\MahoaDES\obj\Debug\MahoaDES.csproj.GenerateResource.Cache
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES\MahoaDES\obj\Debug\MahoaDES.exe
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES\MahoaDES\obj\Debug\MahoaDES.pdb
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\bin\Debug\MahoaDES.exe.config
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\bin\Debug\MahoaDES.exe
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\bin\Debug\MahoaDES.pdb
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.csprojResolveAssemblyReference.cache
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.Form1.resources
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.Properties.Resources.resources
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.csproj.GenerateResource.Cache
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.exe
+E:\Laptrinh\Nam4\TT-ATTT\MahoaDES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.pdb
+E:\Laptrinh\Nam4\TT-ATTT\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\bin\Debug\MahoaDES.exe.config
+E:\Laptrinh\Nam4\TT-ATTT\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\bin\Debug\MahoaDES.exe
+E:\Laptrinh\Nam4\TT-ATTT\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\bin\Debug\MahoaDES.pdb
+E:\Laptrinh\Nam4\TT-ATTT\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.csprojResolveAssemblyReference.cache
+E:\Laptrinh\Nam4\TT-ATTT\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.Form1.resources
+E:\Laptrinh\Nam4\TT-ATTT\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.Properties.Resources.resources
+E:\Laptrinh\Nam4\TT-ATTT\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.csproj.GenerateResource.Cache
+E:\Laptrinh\Nam4\TT-ATTT\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.exe
+E:\Laptrinh\Nam4\TT-ATTT\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.pdb
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\bin\Debug\MahoaDES.exe.config
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\bin\Debug\MahoaDES.exe
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\bin\Debug\MahoaDES.pdb
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.Form1.resources
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.exe
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\MaHoa-GiaiMa-DES_HuaManhTuan_17103100460_Tin11a5\MahoaDES\obj\Debug\MahoaDES.pdb
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\Chương trình DES và 3DES\MahoaDES\bin\Debug\MahoaDES.exe.config
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\Chương trình DES và 3DES\MahoaDES\bin\Debug\MahoaDES.exe
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\Chương trình DES và 3DES\MahoaDES\bin\Debug\MahoaDES.pdb
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\Chương trình DES và 3DES\MahoaDES\obj\Debug\MahoaDES.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\Chương trình DES và 3DES\MahoaDES\obj\Debug\MahoaDES.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\Chương trình DES và 3DES\MahoaDES\obj\Debug\MahoaDES.Form1.resources
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\Chương trình DES và 3DES\MahoaDES\obj\Debug\MahoaDES.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\Chương trình DES và 3DES\MahoaDES\obj\Debug\MahoaDES.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\Chương trình DES và 3DES\MahoaDES\obj\Debug\MahoaDES.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\Chương trình DES và 3DES\MahoaDES\obj\Debug\MahoaDES.exe
+C:\Users\nguye\OneDrive\Desktop\Cơ sở an toàn và bảo mật thông tin-20211203T152133Z-001\Cơ sở an toàn và bảo mật thông tin\Chương trình DES và 3DES\MahoaDES\obj\Debug\MahoaDES.pdb
+C:\Users\nguye\OneDrive\Desktop\Nhom8\3DES\MahoaDES\bin\Debug\MahoaDES.exe.config
+C:\Users\nguye\OneDrive\Desktop\Nhom8\3DES\MahoaDES\bin\Debug\MahoaDES.exe
+C:\Users\nguye\OneDrive\Desktop\Nhom8\3DES\MahoaDES\bin\Debug\MahoaDES.pdb
+C:\Users\nguye\OneDrive\Desktop\Nhom8\3DES\MahoaDES\obj\Debug\MahoaDES.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\Nhom8\3DES\MahoaDES\obj\Debug\MahoaDES.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Desktop\Nhom8\3DES\MahoaDES\obj\Debug\MahoaDES.Form1.resources
+C:\Users\nguye\OneDrive\Desktop\Nhom8\3DES\MahoaDES\obj\Debug\MahoaDES.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\Nhom8\3DES\MahoaDES\obj\Debug\MahoaDES.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Desktop\Nhom8\3DES\MahoaDES\obj\Debug\MahoaDES.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Nhom8\3DES\MahoaDES\obj\Debug\MahoaDES.exe
+C:\Users\nguye\OneDrive\Desktop\Nhom8\3DES\MahoaDES\obj\Debug\MahoaDES.pdb
